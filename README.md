@@ -64,3 +64,21 @@ have
 rename week starts locked anything you want
   
  8. go to all editors and rename it cuz why not?
+ 
+9. compile the game and done
+	
+## how to rename psych engine app and engine
+
+1. go to project.xml
+in line 5, rename psych engine with your engine name.
+in mainmenustate.hx, do this: 		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Delusion Engine v" + psychEngineVersion, 12);
+		versionShit.scrollFactor.set();
+		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(versionShit);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "FNF: Delusion DEMO (Strident Engine V1(DEMO))' v" + Application.current.meta.get('version'), 12);
+		versionShit.scrollFactor.set();
+		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(versionShit);
+
+mine is delusion and rename it as yours :D
+	
