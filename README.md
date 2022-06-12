@@ -81,4 +81,20 @@ in mainmenustate.hx, do this: 		var versionShit:FlxText = new FlxText(12, FlxG.h
 		add(versionShit);
 
 mine is delusion and rename it as yours :D
+
+## How to make a haxe file using notepad?
 	
+its very easy.
+
+1. open notepad.
+	
+2. write a haxe file. example: 		var versionShit:FlxText = new FlxText(12, FlxG.height - 44, 0, "Delusion Engine v" + psychEngineVersion, 12);
+		versionShit.scrollFactor.set();
+		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(versionShit);
+		var versionShit:FlxText = new FlxText(12, FlxG.height - 24, 0, "FNF: Delusion DEMO (Strident Engine V1(DEMO))' v" + Application.current.meta.get('version'), 12);
+		versionShit.scrollFactor.set();
+		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(versionShit);
+
+3. in the bottom, click it. click all files. name your file. dont forget to add .hx! example: main.hx  now thats how you make it :DDDDDD
