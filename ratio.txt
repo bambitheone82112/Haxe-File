@@ -1,0 +1,91 @@
+                                                                                                                                                     
+                                                ....                         .° .                                                                    
+                                              ......                       .°*° °°                                                                   
+                                             ........                   .°°°°°° .O.                                                                  
+                                            ........        ..       .°°°°°°°°. .Oo                                                                  
+                                           .........  °..   .*°. ..°°°°°°°°°°°. °oo*                                                                 
+                                          ..........  °°°°°°°°°°°°°°°°°°°°°°°°  oooo.                                                                
+                                         .............°°°°°°°°°°°°°°°°°°°°°°°. .°*oO*   *o                                                           
+                                         .........°°°°°°°°°°°°°°°°°°°°°°°°°°°    °O°.    O@.                                                         
+                                         .......°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°  .  °ooo° #°  *oooo°                                                 
+                                        ..   .°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°.  *OOoooo   .Oooooo. *                                               
+                                      .....    .°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°   *Ooooooo   oooooo° oOo                                              
+                                       .....°°.   ..°°°°°°°°°°°°°°°°°..  °°°°    °Ooooooo   oooooo °ooo                                              
+                                       ....°°°°*.      °°°°°°...      ..°°°°   O* oooooooo.°oooooo.ooo°                                              
+                                         .°°°°°°.      .°°           .*°°°°.  .@o *oooooooOooooooooooo                                               
+                                     ..°°°°°°°°°.       °°°°         .°°°°°.  *# .ooooooooooooooooooo°                                               
+                                    *°°°°°°°°°°°°      .***°°        .°°°°°.  °* oooooooooooooooooooo°                                               
+                                    .°°°°°*oooooo*     °°*oo*°       °°°°°°°  .  oooooooooooooooooooo*                                               
+                                     .°°°°ooooooooo°  °***oooo*.   .*o*****°.    ooooooooooooooooooooo                                               
+                                       °°°*ooooooooOo°*ooooooooooooOo*ooooo*°°.  .oooooooooooooooooooo.                                              
+                                        .°*ooooooooooOooooooooOOOo*°  *oooo°°°**. .ooooooooooooooooooO°                                              
+                                        °*oooooooooooooooooo**°.   .*oooOOo*°..    .oooo***oooooo***oo*                                              
+                                       .°°*oOooOOooo*.....    ..°ooOOoo*°.     ..°° .oo*°°°°*ooo*°°°°**                                              
+                                           ..  .°*ooOOooooooOOOOOo*°.    .**oOOOOOO° °*°°°°°°°°°°°°°°°°                                              
+                                                 .  ..°°°°°°...     .°*ooooOo*°°..°.  °°°°°°°°°°°°°°°°°.                                             
+                                               *OOo**°°°°°  °°***oooooooooo°    °ooo  .°°°°°°°°°°°°°°°°.                                             
+                                               ..*ooooOOOO° *Ooooooooooooo. .°°°#@@@o  .°°°°°°°°°°°°°°°°                                             
+                                                  Oooooooo*.*oooooooooooOo .*°°°*O@@@  ..°°°°°°°°°°°°°°°                                             
+                                              ..  .oOooooOOOooooooooooOo**  °°°°°°*oO*  .°°°°°°°°°°°°°°°                                             
+                                             ...    .oOOo°.*oOoooooOOo°      °°°°°°°°°  ...°°°°°°°°°°°°°                                             
+                                           .....  °°  °°     °oOoo*°.  °oo**  °°°°°°°°°  ...°°°°°°°°°°°.                                             
+                                          .°....  °oo*°.°oOo°  .   .°ooOooooo.  °°°°°°°  .....°°°°°°°°*                                              
+                                         .°°....  *oooOOOoooOo***ooOoooooooooO*   .°°°°°  .......°°°°°°                                              
+                                        .°°°....  *ooooooooooooooooooooooooooo*°.    .°°°  .........°°                                               
+                                       .°°°°....  *oooooooooooooooooooooooooo°°°°°.          .......                                                 
+                                      .°°°°°°... .ooooooooooooooooooooooooooo°°°°°°                                                                  
+                                     .°°°°°°°..  *ooooooooooooooooooooooooooo°°°°°°                                                                  
+                                    .°°°°°°°°°  °oooooooooooooooooooooooooooo*°°°°°°                                                                 
+                                   °°°°°°°°°°. .*oooooooooooooooooooooooooooo*°°°°°°                                                                 
+                                  °°°°°°°°°°°  *ooooooooooooooooooooooooooooo°°°°°°°.                                                                
+                                 °°°°°°°°°°°  °*ooooooooooooooooooooooooooooo°°°°°°°°                                                                
+                               .°°°°°°°°°°°  °°*oooooooooooooooooooooooooooo*°°°°°°°°                                                                
+                              °°°°°°°°°°°°  .°°ooooooooooooooooooooooooooooo*°°°°°°°°                                                                
+                             o*°°°°°°°°°°  .°°*ooooooooooooooooooooooooooooo°°°°°°°°°                                                                
+                           .oo*°°**o*°°°  °°°°*oooooooooooooooooooooooooooo*°°°°°°°°°°                                                               
+                          °oooo*ooooo°°  .°°°°°ooooooooooooooooooooooooooo*°°°°°°°°°°°                                                               
+                         ooooooooooo**°  °°°°°°*ooooooooooooooooooooooooo*°°°°°°°°°°°°.                                                              
+                       .Oooooooooooooo  ...°°°°°oooooooooooooooooooooooo*°°°°°°°°°°°°°°                                                              
+                       oooooooooooooO°  ......°°°ooooooooooOoooooooooo*°°°°°°°°°°°°°°°°                                                              
+                      oooooooOoo***oo. ...........°*ooo*...°oooooooo*°°°°°°°°°°°°°°°°°°.                                                             
+        .*******     ooooooOo°. ..°..  ..............°°°*°°  oooo*°°°°°°°°°°°°°°°°o##O*°                                                             
+       ..      * *** .OOoOOo°  °*oooo*  ...................°° .*°°°°°°°°°°°°°°°°°*#@@@@@o                                                             
+        . °  .        °°°. .*oo****o°  .....................  °°°°°°°°°°°°°°°°°*#@@@@@@@°                                                            
+         *°.        °  ..°oOoo*****o°  .....................  .°°°°°°°°°°°°°°°°*@@@@@@@@o  °°...                                                     
+          °°   .     . Oooooooooo**o.  ......................  °°°°°°°°°°°°°°°°*@@@@@@@@O   °°°°°..                                                  
+                       °oooOOOoooooo°  ......................  °°°°°°°°°°°°°°°°°*#@@@@@#*.  °°°°                                                     
+                         ..°°°**ooOO.  ......................  °°°°°°°°°°°°°°°°°°°oOOOo°°°  .°°°°°°°°..                                              
+                                  .*   ......................  .°°°°°°°°°°°°°°°°°°°°°*oo*°.  °°°°°°°°°°°°°..                                         
+                                       ......................  .°°°°°°°°°°°°°°°°°°°°O@@@@o°  .°°°°°°°°°°°°°°°°°.                                     
+                                       ......................   °°°°°°°°°°°°°°°°°°°°O@@@@O°.  °°°°°°°°°°°°°°°°°°°°.                                  
+                                       .......................  °°°°°°°°°°°°°°°°°°°°°O@@#*°.  °°°°°°°°°°°°°°°°°°°°°°.                                
+                                       .......................  °°°°°°°°°°°°°°°°°°°°°°**°°°°  .°°°°°°°°°°°°°°°°°°°°°°°°                              
+                                       .......................  .°°°°°°°°°°°°°°°°°°°°°°°O#*°°  *°°°°°°°°°°°°°°°°°°°°°°°°°.                           
+                                       ........................  °°°°°°°°°°°°°°°°°°°°°°°*o*°°. .o*°°°°°°°°°°°°°°°°°°°°°°°°°                          
+                                       ........................  ..........°°°°°°°°°°°°°°°°°°°  °Oo**°°°°°°°°°°°°°°°°°°°°°°°°                        
+                                        .......................  .........°°°°°°°°°°°°°°°°°°°°°  °oooo**°°°°°°°°°°°°°°°°°°°°°°.                      
+                                        .......................   .....°°°°°°°°°°°°°°°°°°°°°°°°°  *ooo**°°°°°°°°°°°°°°°°°°°°°°°.                     
+                                        ........................  °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°.  oo*°°°°°°°°°°°°°°°°°°°.°*.                        
+                                        ........................  °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°.  oooo**°°°°°°°°°°°°°°.   .  .                     
+                                        ........................   °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°.  oooooo*°°°°°°°°°°°°°°.   ...                    
+                                        .........................  °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°  .Ooooooo**°°°°°°°°°°°°°°°°°...                  
+                                        °...................°°...  .°°°°°°°°°°°°°°°°°°°°°°°**°°°°°°°  °Ooooooooo*°°°°°°°°°°°°°°°°°...                
+                                        °°.................°***°..  °°°°°°°°°°°°°°°°°°°°°°*oooo*°°°°°  ooooooooooo*°°°°°°°°°°°°°°°°°°°.              
+                                        °*°..............°******°.  °**°°°°°°°°°°°°°°°°°°oooooooo°°°°. .oooooooooooo*°°°°°°°°°°°°°°°°°°°°°.          
+                                        .**°......°°.....°******°*°  oooo*°°°°°*oo*°°°°°*ooooooooo*°°*  °ooooooooooooo*°°°°°°°°°°°°°°°°°.            
+                                        .***°...°°**°...°**********  °ooooo**°°ooooo*°°*oooooooooooooO*  ooooooooooooooo*°°°°°°°°°°°°.               
+                                        .****°°°***°*°.°*********°*°  ooooooo**oooooo**oooooooooooooooO° .ooooooooooooooo°..°°°°.                    
+                                        .************°°***********°*  *ooooooooooooooooooooooooooooooooo  *ooooooooooooooo°.....                     
+                                        .*************************°*°  ooooooooooooooooooooooooooooooooo*  oOOoooooooooooooo*°.....                  
+                                         **************************°*  *ooooooooooooooooooooooooooooooooO.   °*ooOOooooooooooo*.                     
+                                         °***************************° .ooooooooooooooooooooooooooooooooo*       .°*oOo                              
+                                        .***************************°*  oooooooooooooooooooooooooooooooooo            .                              
+                                        ** .*°************************° °ooooooooooooooooooooooooooooooooo                                           
+                                       **°  *°°°°°**  *°*°°°°°°°°°°*°*. *oooo°*ooooooooooooooooooooooooooo                                           
+                                        °*. °*******. °**************° .oooo° *ooooooo° oooooooooooooooooo                                           
+                                          .  ......°°  °°°°°°°°°°°°°°. °OooO° oOoOOOoO° *OoOOOOOOOOOOOOoo°                                           
+                                                                         ..°°  *°°°°°°°  °*°°°°°°°°°...                                              
+                                                                                                                                                     
+                                                                                                                                                                                                   
+                                                                    
+*/
